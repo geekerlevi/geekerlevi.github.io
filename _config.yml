@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jian Tang"
-description              : "This is the academic homepage of Ph.D. Tang."
+title                    : "Yuhua Li"
+description              : "This is the academic homepage of Mr. Yuhua Li"
 repository               : "geekerlevi/geekerlevi.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jian Tang"
+  name             : "Yuhua Li"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Huazhong university of science and technology"
   location         : "Wuhan, China"
