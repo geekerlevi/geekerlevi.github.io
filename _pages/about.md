@@ -39,7 +39,7 @@ My research interest includes:
 
 # 🛠 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AR Model Performance</div><img src='images/temp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Yuhua Li`, Abdulrahman AlMashaan, Sariaj Patil
