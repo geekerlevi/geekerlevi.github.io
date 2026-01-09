@@ -3,7 +3,8 @@
 Academic Homepage
 </h1>
 
-This is a personal academic homepage for Levi, documenting previous academic experiences. 
+This is a personal academic homepage repository for Levi, documenting previous academic experiences. 
+Here is the link to the academic homepage: geekerlevi.github.io
 
 
 # Acknowledges
