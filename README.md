@@ -11,6 +11,10 @@ The homepage contains:
 - Internships
 - Certifications
 
+Contact information contains:
+- Email
+- LinkedIn
+- Github
 
 # Acknowledges
 
