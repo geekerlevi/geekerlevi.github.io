@@ -49,20 +49,24 @@ My research interest includes:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*. 2022, 22(9): 3587. (JCR:Q2; IF:3.847)  
-[[HTML]](https://dx.doi.org/10.3390/s22093587) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[PDF]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+-	`Yuhua Li`
+- Optimal Algorithm Comparison in Frequency Allocation -IFR, Water Falling and FLG  
+- Proceedings Volume 12332, International Conference on Intelligent Systems, Communications, and Computer Networks (ISCCN 2022); 123321L (2022) https://doi.org/10.1117/12.2652526 Event: International Conference on Intelligent Systems, Communications, and Computer Networks (ISCCN 2022), 2022, Chengdu, China
+[[HTML]](https://doi.org/10.1117/12.2652526) [[Preview]](https://github.com/geekerlevi/geekerlevi.github.io/blob/main/pdf/Optimal.pdf) 
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Bocheng Liu, Yihua Kang. A novel magnetic flux leakage method based on the ferromagnetic lift-off layer with through groove. *Sensors and Actuators A: Physical*. 2021: 113091. (JCR:Q1; IF:4.291)  
-[[HTML]](https://dx.doi.org/10.1016/j.sna.2021.113091) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf) [[PDF]](/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf)
+-	`Yuhua Li`
+- A Study on Task Offloading and Service Caching Integration in Edge-Cloud Collaborative Systems
+- Journal of Advances in Information Technology 16(6):801-808, DOI:10.12720/jait.16.6.801-808
+[[HTML]](10.12720/jait.16.6.801-808) [[Preview]](https://github.com/geekerlevi/geekerlevi.github.io/blob/main/pdf/JAIT-V16N6-801.pdf)
 
 </div>
 </div>
