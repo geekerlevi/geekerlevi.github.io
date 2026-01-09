@@ -4,7 +4,6 @@ Academic Homepage
 </h1>
 
 This is a personal academic homepage repository for Levi, documenting previous academic experiences. 
-Here is the link to the academic homepage: [homepage](geekerlevi.github.io)
 
 
 # Acknowledges
