@@ -17,22 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I graduated from School of Mechanical Science and Engineering,  Huazhong University of Science and Technology, Wuhan China. with a doctor’s degree, advised by Yihua Kang and from School of Mechanical Engineering, Sichuan University, Chengdu China with a bachelor’s degree. I have published 20+ papers with 
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+I am currently a graduate student studying Electrical Engineering in University of Southern California, Los Angeles, United States.
+
 
 My research interest includes: 
-- Instrumentation
-- Nondestructive testing (NDT)
-- Magnetic flux leakage (MFL) detection
-- Eddy current testing (ECT)
-- Electromagnetic measurements
-- Magnetic sensors
-- Nondestructive testing equipment
+- System Identification (SysID)
+- Model Predictive Control (MPC)
+- Linear Control
+- Nonlinear Control
+- Robotics Control
+
 
 
 # 🎓 Educations 
-- *2016.06 - 2022.12*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> School of Mechanical Science and Engineering, Huazhong University of Science and Technology, Wuhan China. 
-- *2012.09 - 2016.06*, <a href="https://en.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> School of Manufacturing Science and Engineering, Sichuan University, Chengdu China. 
+- *2024.08 - 2026.05*, <a href="https://minghsiehece.usc.edu/"><img class="svg" src="/images/USC-Viterbi.svg" width="23pt"></a> Ming Hsieh Department of Electrical and Computer Engineering, University of Southern California, Los Angeles, United States 
+- *2021.09 - 2024.06*, <a href="https://www.eee.manchester.ac.uk/"><img class="svg" src="/images/university-of-manchester.svg" width="20pt"></a> Department of Electrical and Electronic Engineering, the University of Manchester, Manchester, United Kingdom 
  
 
 # 🛠 Projects
