@@ -42,9 +42,14 @@ My research interest includes:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*. 2022, 22(9): 3587. (JCR:Q2; IF:3.847)  
-[[HTML]](https://dx.doi.org/10.3390/s22093587) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[PDF]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
-
+-	`Yuhua Li`, Abdulrahman AlMashaan, Sariaj Patil
+- Supervisor: Dr. Jay H. Lee at USC  
+- *2025 Jun - 2025 Aug*, Model Predictive Control and Reinforcement Learning
+  - Implemented system identification techniques and Kalman filtering for accurate state estimation in multivariable systems, integrating noise modeling and parameter tuning for enhanced robustness.
+  - Developed and applied LQR and MPC algorithms for constrained multivariable control problems, incorporating cost function optimization, horizon tuning and stability analysis.
+  - Designed data-driven control strategies, leveraging real-time and historical data, feature extraction, and system modeling to optimize performance under operational and safety constraints.
+  - Applied control algorithms to a DAC unit, forecasting temperature and humidity using autoregressive models and Kalman predictors, enabling dynamic regulation of environment parameters.
+  - Validated control strategies through simulation and HIL testing, ensuring process efficiency, system stability and scalability for industrial deployment.
 </div>
 </div>
 
@@ -82,6 +87,7 @@ My research interest includes:
 
 # 🏭 Internships
 - *2025 Aug - 2025 Sep*, Siemens AG, Los Angeles, United States
+  - *Technical Assistant – PLC & Smart Infrastructure*
   - Industrial Automation & PLC Programming: Developed and deployed Siemens S7-1200/1500 PLC programs (LAD/SCL), including self-holding and interlock control logic. Independently designed, tested and debugged motor start-stop control systems, integrating safety interlocks and fault diagnostics to enhance system reliability.
   - Energy Management & Optimization: Implemented Siemens three-layer energy management system (field, production, management levels) for real-world projects. Configured energy monitoring systems, conducted KPI-driven energy audit, and executed peak load shaving strategies that reduced energy costs. Designed retrofit solutions for small-to-medium factories, achieving measurable efficiency improvements.
   - Digital Twin & Intelligent Control: Built proof- of -concept digital twin models covering product, production, and performance layers. Simulated EV manufacturing process to optimize energy flow, predictive maintenance, and production scheduling. Applied intelligent control algorithms to integrate building automation with E-mobility infrastructure, enabling energy-efficient charging and smart grid combability.
