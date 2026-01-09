@@ -59,9 +59,9 @@ My research interest includes:
 <div class='paper-box-text' markdown="1">
 
 -	`Yuhua Li`, Yancong Deng
+- Supervisor: Dr. Yancong Deng at University of California - San Diego (UCSD)
 - A Study on Task Offloading and Service Caching Integration in Edge-Cloud Collaborative Systems
-- Journal of Advances in Information Technology 16(6):801-808, DOI:10.12720/jait.16.6.801-808
-[[Preview]](https://github.com/geekerlevi/geekerlevi.github.io/blob/main/pdf/JAIT-V16N6-801.pdf)
+- Journal of Advances in Information Technology 16(6):801-808, DOI:10.12720/jait.16.6.801-808 [[Preview]](https://github.com/geekerlevi/geekerlevi.github.io/blob/main/pdf/JAIT-V16N6-801.pdf)
 
 </div>
 </div>
@@ -70,9 +70,9 @@ My research interest includes:
 <div class='paper-box-text' markdown="1">
 
 -	`Yuhua Li`
+- Supervisor: Dr. Kai Kit Wong at University College London (UCL)
 - Optimal Algorithm Comparison in Frequency Allocation -IFR, Water Falling and FLG  
-- Proceedings Volume 12332, International Conference on Intelligent Systems, Communications, and Computer Networks (ISCCN 2022); 123321L (2022) https://doi.org/10.1117/12.2652526
-[[Preview]](https://github.com/geekerlevi/geekerlevi.github.io/blob/main/pdf/Optimal.pdf) 
+- Proceedings Volume 12332, International Conference on Intelligent Systems, Communications, and Computer Networks (ISCCN 2022); 123321L (2022) https://doi.org/10.1117/12.2652526 [[Preview]](https://github.com/geekerlevi/geekerlevi.github.io/blob/main/pdf/Optimal.pdf) 
 
 </div>
 </div>
