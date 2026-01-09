@@ -98,7 +98,7 @@ My research interest includes:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">7-Cell FFR</div><img src='images/ffr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Yuhua Li`
@@ -114,7 +114,7 @@ My research interest includes:
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/adcdac.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ADC - DAC</div><img src='images/adcdac.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 -	`Yuhua Li`
 - Supervisor: Dr. Thomas Sullivan at Carnegie Mellon University (CMU)
