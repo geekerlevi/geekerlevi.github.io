@@ -188,5 +188,9 @@ My research interest includes:
   - Hardware design & Circuit Analysis: Developed and interpreted PCB schematic diagrams and circuit layout of CPU modules. Conducted signal path analysis, power distribution evaluation, and interface verification, building a solid foundation in standard circuit design and hardware debugging. 
   - System Operation & Programming: Implemented small-scale tests and simulations using C7C++ and assembly to validate CPU operation modes and peripheral communication. Investigated OS-level interactions with CPU registers and memory mapping to support future design improvements.
 
+# 📖 Certifications
 
+- "Introduction to Model-Based Systems Engineering" - [[Siemens]](https://www.coursera.org/account/accomplishments/records/EPSZ3Q03TV1R) 
+- "Mathematics for Machine Learning" - [[Imperial_College_London]](https://www.coursera.org/account/accomplishments/specialization/1KSBHRO0L83P)
+- "Foundations: Data, Data, Everywhere" - [[Google]](https://www.coursera.org/account/accomplishments/records/9XW7QJ30COFQ)
   
