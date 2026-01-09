@@ -22,7 +22,7 @@ google_analytics_id      :  # get google_analytics_id from https://analytics.goo
 # Site Author
 author:
   name             : "Yuhua Li"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/me.png"
   bio              : "University of Southern California"
   location         : "Los Angeles, United States"
   employer         : #"Hefei General Machinery Research Institute"
