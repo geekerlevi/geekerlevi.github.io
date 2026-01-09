@@ -34,7 +34,7 @@ My research interest includes:
 # 🎓 Educations 
 - *2024.08 - 2026.05*, Masters of Science (MS) in Electrical Engineering, <a href="https://minghsiehece.usc.edu/"><img class="svg" src="/images/USC-Viterbi.svg" width="23pt"></a> Ming Hsieh Department of Electrical and Computer Engineering, University of Southern California, Los Angeles, United States 
 
-- *2021.09 - 2024.06*,Bachelors of Engineering (BEng Honors) in Electrical and Electronic Engineering, < href="https://www.eee.manchester.ac.uk/"><img class="svg" src="/images/university-of-manchester.svg" width="20pt"></a> Department of Electrical and Electronic Engineering, the University of Manchester, Manchester, United Kingdom 
+- *2021.09 - 2024.06*,Bachelors of Engineering (BEng Honors) in Electrical and Electronic Engineering, <a href="https://www.eee.manchester.ac.uk/"><img class="svg" src="/images/university-of-manchester.svg" width="20pt"></a> Department of Electrical and Electronic Engineering, the University of Manchester, Manchester, United Kingdom 
  
 
 # 🛠 Projects
