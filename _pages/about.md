@@ -87,6 +87,7 @@ My research interest includes:
 
 
 - *2022 Jun - 2022 Jul*, Advanced Micro Devices, Inc. (AMD), Manchester, United Kingdom *Assistant of R&D Center-CPU*
+
 • CPU Architecture & Embedded systems: Analyzed CPU microarchitecture, including pipeline, cache hierarchy, memory controllers, and data interfaces (PCIe, DDR). Studied hardware-software co-design and OS-hardware interaction mechanisms to understand embedded system integration and performance optimization.
 • Hardware design & Circuit Analysis: Developed and interpreted PCB schematic diagrams and circuit layout of CPU modules. Conducted signal path analysis, power distribution evaluation, and interface verification, building a solid foundation in standard circuit design and hardware debugging.
 • System Operation & Programming: Implemented small-scale tests and simulations using C7C++ and assembly to validate CPU operation modes and peripheral communication. Investigated OS-level interactions with CPU registers and memory mapping to support future design improvements.
