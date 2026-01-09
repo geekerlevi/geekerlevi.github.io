@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 😸 About Me
+
 I am currently a graduate student studying Electrical Engineering in University of Southern California, Los Angeles, United States.
 
 
