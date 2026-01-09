@@ -1,7 +1,4 @@
-
-<h1 align="center">
-Academic Homepage
-</h1>
+# Academic Homepage
 
 This is a personal academic homepage repository for Levi, documenting previous academic experiences. 
 
