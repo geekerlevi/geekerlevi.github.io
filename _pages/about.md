@@ -53,7 +53,7 @@ My research interest includes:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Service Caching Model</div><img src='images/sys_model.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOSC-CF Algorithm</div><img src='images/TOSC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Yuhua Li`, Yancong Deng
