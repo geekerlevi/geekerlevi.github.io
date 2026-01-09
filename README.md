@@ -1,6 +1,7 @@
 # Academic Homepage
 
 This is a personal academic homepage repository for Levi, documenting previous academic experiences. 
+
 The homepage contains
 - About Me
 - Educations
