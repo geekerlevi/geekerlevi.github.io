@@ -15,19 +15,19 @@ google_scholar_stats_use_cdn : false
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  fQZQD0EwLaSOrp3EbALt2rjxHEY9pUvWuh1fS96xgNk # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   : 56D1B3DBCF345410DA9431AFE01788E7 # get bing_site_verification from https://www.bing.com/webmasters/about
-baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
+# google_site_verification :  fQZQD0EwLaSOrp3EbALt2rjxHEY9pUvWuh1fS96xgNk # get google_site_verification from https://search.google.com/search-console/about
+# bing_site_verification   : 56D1B3DBCF345410DA9431AFE01788E7 # get bing_site_verification from https://www.bing.com/webmasters/about
+# baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
   name             : "Yuhua Li"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Huazhong university of science and technology"
-  location         : "Wuhan, China"
+  bio              : "University of Southern California"
+  location         : "Los Angeles, United States"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
+  googlescholar    : 
   email            : "yuhuali@usc.edu"
   researchgate     : 
   uri              : 
